@@ -99,7 +99,7 @@ according to the test setting. The default setting is for our BSDS500 test set.;
 
  
 ## Acknowledgement
-The code is implemented based on [superpixel_fcn](hhttps://github.com/fuy34/superpixel_fcn). We would like to express our sincere thanks to the contributors.
+The code is implemented based on [superpixel_fcn](https://github.com/fuy34/superpixel_fcn). We would like to express our sincere thanks to the contributors.
 
 ## Cite
 If you use SIN in your work please cite our paper:
