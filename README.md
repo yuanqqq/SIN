@@ -2,7 +2,7 @@
 
 This is is a PyTorch implementation of the superpixel segmentation network introduced in our PRICAI-2021 paper:
 
-SIN: Superpixel Interpolation Network.
+[SIN: Superpixel Interpolation Network](https://arxiv.org/abs/2110.08702)
 
 ## Prerequisites
 The training code was mainly developed and tested with python 3.6, PyTorch 1.4, CUDA 10, and Ubuntu 18.04.
